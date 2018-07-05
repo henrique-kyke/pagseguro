@@ -20,6 +20,7 @@ Gemfile.lock
 .rvmrc
 .ruby-gemset
 .ruby-version
+.byebug_history
 
 #################
 ## IntelliJ
